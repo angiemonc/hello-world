@@ -1,1 +1,3 @@
 Archivo inicial para el proyecto (repositorio)
+
+Este archivo tiene información imórtante para el desarrollo del curso

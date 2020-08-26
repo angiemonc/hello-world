@@ -8,3 +8,5 @@ Repositorio inicial de git
 3.- Ecuaciones Diferenciales
 
 ### Este repositorio también contiene la lista de compras de la semana
+
+En este repositorio está trabajando una persona externa
